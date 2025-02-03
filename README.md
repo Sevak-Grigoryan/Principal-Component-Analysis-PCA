@@ -19,8 +19,8 @@ This repository contains a custom implementation of the Principal Component Anal
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone <[repository-url](https://github.com/Sevak-Grigoryan/Principal-Component-Analysis-PCA.git)>
+   cd <Principal-Component-Analysis-PCA>
    ```
 
 2. Run the `main.py` file to see an example usage of the PCA implementation:
